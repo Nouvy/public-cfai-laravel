@@ -42,7 +42,7 @@
  * )
  */
 
-"php artisan swagger-ui:generate"
+"php artisan l5-swagger:generate"
 
 
 >
