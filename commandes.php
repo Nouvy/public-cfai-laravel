@@ -8,6 +8,7 @@
  *  )
  */
 
+"https://github.com/Nouvy/public-cfai-laravel.git"
 
 /**
  * @OA\Get(
@@ -40,4 +41,8 @@
  *     )
  * )
  */
+
+"php artisan swagger-ui:generate"
+
+
 >
